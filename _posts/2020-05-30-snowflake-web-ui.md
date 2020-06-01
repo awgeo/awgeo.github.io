@@ -9,11 +9,11 @@ tags:
   - standard
 ---
 
+I thought I'd check out <a href="https://www.snowflake.com/about/">Snowflake Cloud Data Warehouse</a> after reading on a DataCamp Data Engineering course that it was "disrupting the data warehouse industry". I first completed the "Zero to Snowflake in 90 minutes" hands-on lab, and have just now completed the first of their certifications:  "Hands On Snowflake - WebUI Essentials".
+
 <div data-iframe-width="600" data-iframe-height="270" data-share-badge-id="3fc48705-b81d-4d25-bf1c-7f2df0c8bb39" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-I thought I would check out Snowflake Data Warehouse after reading on a DataCamp 'Data Engineering' course that Snowflake was "disrupting the data warehouse industry". I first completed the "Zero to Snowflake in 90 minutes" hands-on lab, and have just now completed the first of their certifications:  "Hands On Snowflake - WebUI Essentials".
-
-The course gives a good overview of the ETL process in Snowflake, moving the data between tables and transforming it en-route. The course covered: User Roles, Navigation, Creating Database Objects, Virtual Warehouse creation and configuration, loading and querying CSV and JSON data.
+The course gives a good introduction to <a href="https://www.snowflake.com/data-warehousing-glossary/data-warehousing/">data warehousing</a> and explains the ETL process in Snowflake, moving the data between tables and transforming it en-route. It covered: User Roles, Navigation, Creating Database Objects, Virtual Warehouse creation and configuration, loading and querying CSV and JSON data.
 
 In Snowflake, a "warehouse" refers to the compute power applied to process the processing data and not to the data store. Each warehouse has  single cluster of servers, and the number of servers in that cluster vary based on the warehouse size designation.
 
