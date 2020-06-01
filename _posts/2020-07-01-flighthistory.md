@@ -1,5 +1,5 @@
 ---
-title: "FlightHistory - a project in Tableau"
+title: "FlightHistory - a project in Jupyter Notebooks and Tableau"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -26,8 +26,8 @@ Full set of interactive plots published on <a href="https://public.tableau.com/p
 
 Number of flights to each US-Carribean destination per year:
 
-<img src="flighthistory_us-destinations.PNG" alt="US and Carribean fights">
+<img src="/assets/images/flighthistory_us-destinations.PNG" alt="US and Carribean fights">
 
 Number of flights per aircraft type:
 
-<img src="flighthistory_flights-per-aircraft-type.PNG" alt="Flights per aircraft type">
+<img src="/assets/images/flighthistory_flights-per-aircraft-type.PNG" alt="Flights per aircraft type">
