@@ -62,6 +62,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/awgeo"
+    - label: "Azure Notebooks"
+      icon: "fas fa-book-open"
+      url: "https://notebooks.azure.com/awgeo"
+    - label: "Email"
+      icon: "far fa-envelope"
+      url: "alanw@me.com"
 
 footer:
   links:
