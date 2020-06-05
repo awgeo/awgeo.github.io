@@ -14,7 +14,7 @@ The challenge was to scrape job listing results from several energy company care
 
 New to web-scraping, I quickly realised these career sites are difficult to scrape for a number of reasons, least not because the search results are paginated (e.g. 25 results per page). The script must interact with each page - navigating between them and - using intentional pauses - waiting for the new set of results to loaded from the server. Each time, the script has to iterate over a set of results and append each record to a DataFrame. Also, as the content is dynamic and prone to change, the script is not robust and can easily break. Of course, each site is entirely unique and the format of each job listing can be inconsistent.
 
-    ``` python
+    ```
 	from selenium import webdriver
 	driver = webdriver.Chrome("C:/webdrivers/chromedriver.exe")
 	

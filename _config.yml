@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Alan Wilson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My Data Science and Data Engineering portfolio"
+  bio    : "Data enthusiast with a background in petroleum geoscience"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
