@@ -14,16 +14,17 @@ Keeping track of courses I've attended and certifications achieved.
 - Introduction to Machine Learning for Geoscience (Geocomputing ML) course – Agile Scientific (2020)
 - Complete Python Bootcamp: Go from zero to hero in Python 3 - Udemy
 - Python for Data Science and Machine Learning Bootcamp - Udemy
-- Database Design with SQL Server – City University (2019)
-- Geocomputing Bootcamp & Hackathon - OGA/Agile Scientific (2018)
+- <a href="assets/docs/SQL-Server-Database-Design_certificate-term-2019.jpg" target="_blank">Database Design with SQL Server – City University (2019)
+- <a href="https://github.com/Nozziel/OGA2018_SweetSpotPrediction" target="_blank">Geocomputing Bootcamp & Hackathon</a> - OGA/Agile Scientific (2018)
 
 ### DataCamp
 - Completed three 'career tracks': Data Analyst with SQL, Data Analyst with Python and Data Engineering with Python.
-- 35+ courses (SQL, Python, Git, Shell/Bash, Conda, Tableau and PowerBI) and a load of <a href="_posts/2020-06-05-datacamp-live-training.md">live-coding tutorials</a>.
+- 35+ courses on SQL, Python, Git, Shell/Bash, Conda, Tableau and PowerBI.
 - Follow my progress on <a href="https://www.datacamp.com/profile/alanw" target="_blank">my DataCamp profile</a>.
 
 ### Recent certifications:
-- Snowflake Data Warehouse WebUI Essentials certification (Snowflake University)
+
+- <a href="https://www.youracclaim.com/badges/3fc48705-b81d-4d25-bf1c-7f2df0c8bb39/public_url" target="_blank">Snowflake Data Warehouse WebUI Essentials certification</a> (Snowflake University)
 
 ### Others
 Say hello to the Data Cloud - product launch (2 June 2020, 2hr) --- go back over!

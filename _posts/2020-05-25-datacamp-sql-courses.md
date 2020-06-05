@@ -4,9 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - datacamp
+  - sql
+  - data_analyst
 ---
 
 I've managed to exhaust DataCamp.com of all 25 courses on SQL programming, covering both SQL Server and PostgreSQL. It has kept me busy for 9-weeks of coronavirus lockdown, while on furlough from work. Since each course takes about 4 hours, that's a good 100 hours of coding, plus their one short SQL "project" working with data from The World Bank. 

@@ -4,9 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - snowflake
+  - data_warehouse
+  - cloud
 ---
 
 I thought I'd check out <a href="https://www.snowflake.com/about/">Snowflake Cloud Data Warehouse</a> after reading on a DataCamp Data Engineering course that it was "disrupting the data warehouse industry". I first completed the "Zero to Snowflake in 90 minutes" hands-on lab, and have just now completed the first of their certifications:  "Hands On Snowflake - WebUI Essentials".

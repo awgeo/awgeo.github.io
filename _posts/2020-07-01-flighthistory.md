@@ -12,7 +12,7 @@ Looking for a good dataset to play with in Tableau, I got a hold of my partner's
 
 ### Data preparation
 
-These Jupyter Notebooks describe the data preparation workflow using Python and Pandas before we can plot and analyse the data. The data is provided in two parts. First, data spanning Oct 2012 - Oct 2019 are provided in a series of Excel files ("Historical Crew Data"). Note that, where a flight runs over midnight GMT, its data spans two rows. A key step in this workflow is to keep just one row per flight, ensuring we carry over the correct flight dates, times, block hours, etc.
+These <a href="https://github.com/awgeo/FlightHistory" target="_blank">Jupyter Notebooks</a> describe the data preparation workflow using Python and Pandas before we can plot and analyse the data. The data is provided in two parts. First, data spanning Oct 2012 - Oct 2019 are provided in a series of Excel files ("Historical Crew Data"). Note that, where a flight runs over midnight GMT, its data spans two rows. A key step in this workflow is to keep just one row per flight, ensuring we carry over the correct flight dates, times, block hours, etc.
 
 Second, more recent but less detailed flight data (up to end-March 2020) is parsed from an iCalendar (.iCal) file, in which basic flight information is recorded in a consistent manner. The two data sets are combined and reconciled, along with additional data from a third party data source, including geographical information (including airport lat/long) and distances calculated between origin/destination airports.
 

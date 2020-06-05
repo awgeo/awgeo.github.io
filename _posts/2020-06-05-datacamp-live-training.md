@@ -9,7 +9,7 @@ tags:
   - google_colab
 ---
 
-Since the UK started its coronavirus lockdown (23rd March 2020) and while on furlough from work, I've attended a load of DataCamp live-coding tutorials. Each session is about 3 hours long and they've been useful to help reinforce my knowledge with practical examples.
+Since the UK started its coronavirus lockdown (23rd March 2020) and while on furlough from work with plenty of time on my hands, I've attended a load of DataCamp live-coding tutorials. Each session is about 3 hours long and they've been useful to help reinforce my knowledge with practical examples.
 
 My completed notebooks on Google Colaboratory:
 
