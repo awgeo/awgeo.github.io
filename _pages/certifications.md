@@ -27,8 +27,8 @@ Keeping track of courses I've attended and certifications achieved.
 - <a href="https://www.youracclaim.com/badges/3fc48705-b81d-4d25-bf1c-7f2df0c8bb39/public_url" target="_blank">Snowflake Data Warehouse WebUI Essentials certification</a> (Snowflake University)
 
 ### Others
-Say hello to the Data Cloud - product launch (2 June 2020, 2hr) --- go back over!
-AWS Summit Online (17 June 2020)
+- Say hello to the Data Cloud - product launch (2 June 2020, 2hr)
+- AWS Summit Online (17 June 2020)
 
 ### Reading material
 - Head First SQL (2007), Lynn Beighley
