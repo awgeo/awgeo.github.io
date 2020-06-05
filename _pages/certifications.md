@@ -2,7 +2,7 @@
 permalink: /certifications/
 title: "Certifications"
 ---
-Keeping track of Data Science courses, certifications and webinars that I've attended...
+Keeping track of courses I've attended and certifications achieved.
 
 ### Ongoing:
 - Introduction to Data Analytics and Machine Learning with Python – City University (2020) 
@@ -19,7 +19,7 @@ Keeping track of Data Science courses, certifications and webinars that I've att
 
 ### DataCamp
 - Completed three 'career tracks': Data Analyst with SQL, Data Analyst with Python and Data Engineering with Python.
-- 35+ courses (SQL, Python, Git, Shell/Bash, Conda, Tableau and PowerBI) and a load of <a href="./_posts/2020-06-05-datacamp-live-training.md">live-coding tutorials</a>.
+- 35+ courses (SQL, Python, Git, Shell/Bash, Conda, Tableau and PowerBI) and a load of <a href="_posts/2020-06-05-datacamp-live-training.md">live-coding tutorials</a>.
 - Follow my progress on <a href="https://www.datacamp.com/profile/alanw" target="_blank">my DataCamp profile</a>.
 
 ### Recent certifications:
