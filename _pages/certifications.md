@@ -45,7 +45,8 @@ AWS Summit Online (17 June 2020)
 
 ### Study material
 <b>Finished:</b>
-- Head First SQL (2007), Lynn Beighley<br>
+- Head First SQL (2007), Lynn Beighley
+
 <b>Reading:</b>
 - Head First Python 2e (2016), Paul Barry
 - Data Science from Scratch: First Principles with Python 2e (2019), Joel Grus.
