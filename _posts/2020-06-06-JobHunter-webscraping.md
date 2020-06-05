@@ -14,8 +14,19 @@ The challenge was to scrape job listing results from several energy company care
 
 New to web scraping, I quickly realised these career sites are difficult to scrape for a number of reasons - least not because the search results are paginated (e.g. 25 results per page). The script must interact with each page - navigating between them and (using intentional pauses) waiting for the new set of results to loaded from the server. Each time, the script has to iterate over a set of results and append each record to a DataFrame. Also, as the content is dynamic and prone to change, the script is not robust and can easily break. Of course, each site is entirely unique and the format of each job listing can be inconsistent.
 
-    import python
-	print('hello world')
+    ```python
+	from selenium import webdriver
+	driver = webdriver.Chrome("C:/webdrivers/chromedriver.exe")
+	
+	# Navigate to search page
+    url = "https://jobs.halliburton.com/search/?q=&sortColumn=referencedate&sortDirection=desc&startrow="
+    driver.get(url)
+
+    # Find the number of results returned by search
+    num_results = driver.find_element_by_xpath("""//*[@id="content"]/div[2]/div/div[4]/div/div[1]/div/div/div/span[1]/b[2]""")
+	
+	...
+	```
 
 My <a href="https://github.com/awgeo/JobHunter">script</a> uses ChromeDriver and Selenium to perform webscraping of the Hallibuton and BP career sites. After spending some time inspecting the HTML source code of several career sites, I select these two sites as they are structured such that I found it <i>relatively</i> easy to access the elements of the page required. The stript retreives and parses out each job's headline information (role, location, etc.), but not the detailed content behind each listing.
 
