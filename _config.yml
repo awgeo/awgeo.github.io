@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Alan Wilson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My Data Science portfolio"
+  bio    : "My Data Science and Data Engineering portfolio"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -67,7 +67,7 @@ author:
       url: "https://notebooks.azure.com/awgeo"
     - label: "Email"
       icon: "far fa-envelope"
-      url: "alanw@me.com"
+      url: "mailto: alanw@icloud.com"
 
 footer:
   links:

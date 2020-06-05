@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 
-I've managed to exhausted DataCamp.com of all 25 courses on SQL programming, covering both SQL Server and PostgreSQL. It has kept me busy for 9-weeks of coronavirus lockdown, while on furlough from work. Since each course takes about 4 hours, that's a good 100 hours of coding, plus their one short SQL "project" working with data from The World Bank. 
+I've managed to exhaust DataCamp.com of all 25 courses on SQL programming, covering both SQL Server and PostgreSQL. It has kept me busy for 9-weeks of coronavirus lockdown, while on furlough from work. Since each course takes about 4 hours, that's a good 100 hours of coding, plus their one short SQL "project" working with data from The World Bank. 
 
 I also managed to get "100th percentile" in DataCamp's Signal Assessment on Data Analysis in PostgreSQL (after a few attempts... I couldn't let it sit at 96% or 98%). The skeptic in me wonders if I really did better than 100% of takers, or if there's some rounding involved!
 
