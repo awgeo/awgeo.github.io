@@ -14,7 +14,7 @@ Keeping track of courses I've attended and certifications achieved.
 - Introduction to Machine Learning for Geoscience (Geocomputing ML) course – Agile Scientific (2020)
 - Complete Python Bootcamp: Go from zero to hero in Python 3 - Udemy
 - Python for Data Science and Machine Learning Bootcamp - Udemy
-- <a href="assets/docs/SQL-Server-Database-Design_certificate-term-2019.jpg" target="_blank">Database Design with SQL Server – City University (2019)
+- <a href="./assets/docs/SQL-Server-Database-Design_certificate-term-2019.jpg" target="_blank">Database Design with SQL Server – City University (2019)
 - <a href="https://github.com/Nozziel/OGA2018_SweetSpotPrediction" target="_blank">Geocomputing Bootcamp & Hackathon</a> - OGA/Agile Scientific (2018)
 
 ### DataCamp

@@ -1,5 +1,5 @@
 ---
-title: "Coronavirus lockdown: live DataCamp tutorials"
+title: "Coronavirus lockdown: 10 live DataCamp tutorials"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
