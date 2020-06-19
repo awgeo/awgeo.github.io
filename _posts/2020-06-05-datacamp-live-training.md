@@ -14,6 +14,8 @@ Since the UK started its coronavirus lockdown (23rd March 2020) and while on fur
 My completed notebooks on Google Colaboratory:
 
 - <a href="" target="_blank">
+Cleaning Data in Pyspark</a> - DataCamp live training (17 Jun 2020)
+- <a href="" target="_blank">
 Data Analysis in SQL</a> - DataCamp live training (11 Jun 2020)
 - <a href="https://colab.research.google.com/drive/1oqnvRYcOCAT_WI9AyVm5fXhpH_hhbqrG?usp=sharing" target="_blank">String Manipulation in SQL</a> - DataCamp live training (4 Jun 2020)
 - <a href="https://colab.research.google.com/drive/1AxDOdGX1_PyrxN59mk3_lpmRc1911LGi?usp=sharing" target="_blank">Time Series Analysis in Python</a> - DataCamp live training (2 Jun 2020)

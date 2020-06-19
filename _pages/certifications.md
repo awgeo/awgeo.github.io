@@ -9,6 +9,7 @@ Keeping track of courses I've attended and certifications achieved.
 - Transform 2020 Virtual Conference on Digital Subsurface - Software Underground (over 5 days, Jun 2020)
 - ISTQB Certified Tester Foundation Level in Software Testing (sit exam July 2020)
 - AWS Training and Certification: AWS Cloud Practitioner Essentials (Second Edition)
+- Advanced SQL Querying for Data Analytics (July 2020)
 
 ### Completed courses:
 - Introduction to Machine Learning for Geoscience (Geocomputing ML) course – Agile Scientific (2020)
